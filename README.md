@@ -25,7 +25,7 @@
 <br>
 
 -----
-### ⚙️ &nbsp;GitHub Analytics
+### <picture><img src = "https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width = 50px></picture> &nbsp;GitHub Analytics
 <br>
 <p align="center">
 <a href="https://github.com/ClaudioVergara2">
