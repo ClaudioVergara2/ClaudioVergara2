@@ -4,11 +4,8 @@
   <img align="" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%">
 </p>
 
-<p align="center">
-  <h1>&emsp;&emsp;&emsp;&emsp;</h1>
-</p>
-
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23%20-%232370ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -33,11 +30,14 @@
   <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal" />
 </p>
 
-<h1></h1>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
 <p align="center">
-<picture><img src = "https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width = 50px></picture> 
+<picture><img src="https://media.giphy.com/media/NZTnEs7Wa6ub2MuyzJ/giphy.gif" width = 50px></picture> 
   <strong>GitHub Analytics</strong> 
-  <picture><img src = "https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width = 50px></picture>
+  <picture><img src="https://media.giphy.com/media/NZTnEs7Wa6ub2MuyzJ/giphy.gif" width = 50px></picture>
 </p>
 
 <p align="center">
