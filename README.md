@@ -1,10 +1,10 @@
-<p align="center">
-  <img align="" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%">
-  <img align="" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%">
-  <img align="" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%">
-</p>
+<div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJmbGZ2b3RnbnJpdHpmaDFudnJ1Ymp3dm9nc2dvNTcyNnRxcG1sZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jV0VJEv1IHU4xD7Cxi/giphy.webp" width="500" height="250" />
+  <img src="gif/vaporwave-chillwave-dreamwave.gif" width="500" height="250" />
+</div>
 
-<br>
+
+<!--<br>-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal" />
 </p>
-<br>
+<!--<br>-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -39,4 +39,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ClaudioVergara2&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
