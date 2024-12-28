@@ -1,6 +1,6 @@
 <div>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJmbGZ2b3RnbnJpdHpmaDFudnJ1Ymp3dm9nc2dvNTcyNnRxcG1sZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jV0VJEv1IHU4xD7Cxi/giphy.webp" width="500" height="250" />
-  <img src="gif/vaporwave-chillwave-dreamwave.gif" width="500" height="250" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJmbGZ2b3RnbnJpdHpmaDFudnJ1Ymp3dm9nc2dvNTcyNnRxcG1sZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jV0VJEv1IHU4xD7Cxi/giphy.webp" width="400" height="250" />
+  <img src="gif/vaporwave-chillwave-dreamwave.gif" width="400" height="250" />
 </div>
 
 
