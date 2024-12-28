@@ -29,16 +29,9 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal" />
 </p>
-
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<p align="center">
-<picture><img src="https://media.giphy.com/media/NZTnEs7Wa6ub2MuyzJ/giphy.gif" width = 50px></picture> 
-  <strong>GitHub Analytics</strong> 
-  <picture><img src="https://media.giphy.com/media/NZTnEs7Wa6ub2MuyzJ/giphy.gif" width = 50px></picture>
-</p>
 
 <p align="center">
   <a href="https://github.com/ClaudioVergara2">
